@@ -2,4 +2,4 @@
 Test Repository
 
 Hi people,
-Looking forward to code awesome projects!!!
+Looking forward to code for awesome projects!!!
